@@ -56,3 +56,8 @@ If you encounter any issues while using this app, please check the following:
 ## Conclusion
 
 This app provides a simple and easy-to-use way for users to view and load blog posts from a WordPress site. With its clear and concise interface and helpful features, it's a great tool for anyone looking to access blog content from their WordPress site.
+
+## Example
+
+Link for the deployed vuejs: https://coricsdev.github.io/vue-project/
+Link where the VueJS fetching the WordPress posts: https://sandbox-one.dadizrico.com/

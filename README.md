@@ -59,5 +59,4 @@ This app provides a simple and easy-to-use way for users to view and load blog p
 
 ## Example
 
-Link for the deployed vuejs: https://coricsdev.github.io/vue-project/
-Link where the VueJS fetching the WordPress posts: https://sandbox-one.dadizrico.com/
+Here is the link for the deployed Vue.js project: https://coricsdev.github.io/vue-project/. Additionally, you can find the link where the Vue.js application is fetching WordPress posts at: https://sandbox-one.dadizrico.com/.
